@@ -1,0 +1,210 @@
+body{
+  margin:0;
+}
+
+.ipod-wheel
+{
+  height: 279px;
+  width: 300px;
+  margin-left: -5%;
+  margin-top:-1.5%;
+  background-image: url('./images/WhatsApp\ Image\ 2021-11-02\ at\ 07.33.41.jpeg');
+  background-size: cover;
+  
+ 
+}
+.menu
+{
+  color: coral;
+  font-size:10px;
+  font-weight: 100;
+ 
+  margin-left: 40%;
+  margin-top: 10%;
+
+}
+
+
+
+
+
+
+.card
+{
+  width:150px;
+  background-color: white;
+  box-shadow:  white;
+  border: 2px white solid;
+  height: 207px;
+ 
+  
+}
+
+.card-list
+{
+  height: 30px;
+  margin-bottom: 10px;
+  width: 98%;
+  font-size: 25px;
+  font-weight: 300;
+ 
+}
+.title
+{
+  margin-top: 2%;
+  margin-bottom: 5%;
+  font-size:30px;
+  font-weight: bold;
+}
+.title-center
+{
+  margin-top: 10%;
+  margin-left: 32%;
+  text-align: center;
+  font-size:30px;
+  font-weight: bold;
+}
+.cardflow-title
+{
+  margin-top: 40%;
+  margin-left: 32%;
+  text-align: center;
+  font-size:30px;
+  font-weight: bold;
+}
+
+.active {
+  background: #2185d0 !important;
+  color: black;
+}
+
+.settings-div
+{
+  height: 200px;
+  width:270px;
+  background-color: white;
+}
+.settings
+{
+  margin-top: 10%;
+  margin-left:20%;
+  height: 65%;
+  width:49%;
+  background-image: url('../src/images/settings.svg');
+  background-size: contain;
+}
+.game
+{
+  margin-top: 15%;
+  margin-left:25%;
+  height: 50%;
+  width:50%;
+  background-image: url('../src/images/ludo.jpeg');
+  background-size: contain;
+}
+.enter
+{
+  height: 80px;
+  width: 80px;
+  border-radius:60px;
+  border:none;
+  margin-left: 38%;
+  margin-top: 8%;
+
+}
+
+.screen
+{
+  height: 200px;
+  width:270px ;
+   margin-left: 5%;
+  border:2px solid black;
+  
+  background-image:url('./images/2-nature.jpg');
+  background-size: cover;
+}
+
+.screen1
+{
+  height: 232px;
+  width:300px;
+  margin-top: 10%;
+  margin-left:40%;
+  background-image:url('./images/WhatsApp\ Image\ 2021-11-02\ at\ 06.56.23.jpeg');
+  background-size: contain;
+}
+.card2
+{
+  width:300px;
+  height:207px;
+}
+.song
+{
+  height: 200px;
+  width: 270px;
+  background-color: white;
+
+}
+.song-img
+{
+  
+ 
+  background-size: cover;
+  margin:3%;
+  height:100px;
+  width:150px;
+  background-image: url('./images//beliver.jpeg');
+  border: 2px white solid;
+}
+.song-info
+{
+  height:60px;
+  width:80px;
+  margin-left:60%;
+  margin-top:-35%;
+  text-align: center;
+}
+
+.artist
+{
+  margin-top:1%;
+  margin-left:3%;
+  margin-right: 2%;
+  background-size: contain;
+   border-radius: 90px;
+  height: 150px;
+  width:150px;
+  background-image: url('./images/Ed_Sheeran-6886_\(cropped\).jpg');
+  border: 2px white solid;
+}
+.artist-info
+{
+  height:60px;
+  width:80px;
+  margin-left:59%;
+  margin-top:-45%;
+  text-align: center;
+}
+.btn
+{
+  font-size:15px;
+  font-weight: bold;
+  color: grey;
+  border:none;
+  background-color: white;
+}
+.prog
+{
+     margin-top:15%;
+     margin-left: 10%;
+    
+     color:blue;
+}
+.right
+{
+  margin-left:10%;
+}
+.left
+{
+  margin-left: 40%;
+}
